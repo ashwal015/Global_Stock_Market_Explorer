@@ -41,11 +41,11 @@ More detailed insights can be inferred from generated charts.
 - IDE: PyCharm
 - Languages: Python 3.x
 - Libraries: 
-          - yfinance – Fetches real-time and historical stock market data from Yahoo Finance
-	  - pandas – Data cleaning, transformation, and analysis
-	  - matplotlib – Basic data visualization and plotting
-	  - plotly.express – Interactive and dynamic charts
-	  - streamlit – Web-based dashboard for displaying stock market insights
+  - yfinance – Fetches real-time and historical stock market data from Yahoo Finance
+  - pandas – Data cleaning, transformation, and analysis
+  - matplotlib – Basic data visualization and plotting
+  - plotly.express – Interactive and dynamic charts
+  - streamlit – Web-based dashboard for displaying stock market insights
 
 ## Method
 
