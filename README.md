@@ -73,6 +73,15 @@ hist = stock.history(period="1y")
 - Interactive Streamlit dashboard for stock selection and trend exploration
 - Saved static charts for offline analysis and documentation
 
+### Dashboard Example
+
+Here is an example screenshot of the Streamlit dashboard showing stock closing prices and daily returns:
+
+<img src="outputs/Streamlit_output/GSME_ClosingPrices.png" width="600"/>
+
+<img src="outputs/Streamlit_output/GSME_DialyReturns.png" width="600"/>
+
+
 
 ## How to Run Project and Project Structure
 Project Structure
