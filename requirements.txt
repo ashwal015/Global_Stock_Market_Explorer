@@ -1,0 +1,12 @@
+# Data fetching
+yfinance==0.2.28
+
+# Data manipulation
+pandas==2.5.3
+
+# Visualization
+matplotlib==3.8.0
+plotly==6.5.2
+
+# Web dashboard
+streamlit==1.53.0
