@@ -89,12 +89,16 @@ Global_Stock_Market_Explorer/
 ## Steps to Run
 
 1.Clone the repository 
-2.Install dependencies: 
+2.Install dependencies 
 	```bash
  pip install -r requirements.txt 
+
 ```
 3.Run the Streamlit application:
-	```bash python -m streamlit run app.py ```
+	```bash
+ python -m streamlit run app.py
+
+ ```
 4.Open the browser link displayed in the terminal
 
 
