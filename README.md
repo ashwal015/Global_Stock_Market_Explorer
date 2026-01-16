@@ -88,10 +88,11 @@ Project Structure
 ```
 Global_Stock_Market_Explorer/
 │
-├── data/              # Saved stock CSV files
-├── outputs/           # Generated visualization images
-├── app.py             # Main Python & Streamlit application
-├── requirements.txt   # Project dependencies
+├── data/                       # Saved stock CSV files
+├── outputs/                    # Generated visualization images
+│   └── Streamlit_output/       # Screenshots or examples of Streamlit dashboard
+├── app.py                      # Main Python & Streamlit application
+├── requirements.txt            # Project dependencies
 └── README.md
 
 ```
